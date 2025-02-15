@@ -2,7 +2,6 @@ gdjs.MainCode = {};
 gdjs.MainCode.localVariables = [];
 gdjs.MainCode.GDCar1Objects5_1final = [];
 
-
 gdjs.MainCode.GDCar2Objects5_1final = [];
 
 gdjs.MainCode.GDCar3Objects5_1final = [];
